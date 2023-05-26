@@ -9,6 +9,7 @@
     (date "2021-07-21")
     (rev "$Id$")
     (company "COMPANY")
+    (comment 1 "Another note")
   )
 
   (lib_symbols
